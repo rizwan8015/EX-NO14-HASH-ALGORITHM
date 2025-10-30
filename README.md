@@ -1,7 +1,7 @@
 # EX-NO14-HASH-ALGORITHM
 ```
-name:Ashwath p
-reg no:212224220012
+name:rizwan b
+reg no:21222410051
 ```
 ## AIM:
 To implement HASH ALGORITHM
